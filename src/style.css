@@ -63,6 +63,7 @@
   color: var(--mediun-grey);
   margin: 20px;
   cursor: text;
+  transition: all 200ms ease;
 }
 .input:focus{
   background-color: var(--whitesmoke);
